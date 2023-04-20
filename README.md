@@ -1,3 +1,3 @@
-# breakout_game_2d
+# breakout game 2d
 
-Done_by_tutorial: https://developer.mozilla.org/ru/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript
+Done by tutorial: https://developer.mozilla.org/ru/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript
